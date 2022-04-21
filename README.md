@@ -82,4 +82,4 @@ Caso já tenha feito o clone do repositório, basta trocar a url
 git remote set-url origin user1@id_rsa_user1:company/repository_name.git
 ```
 
-Infelizmente este processo precisa ser repetido para cada repositório que for clonar.
+Infelizmente este processo de ajustar a URL precisa ser repetido para cada repositório que for clonar.
